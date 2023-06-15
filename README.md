@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Follow me on Mastodon <a href="https://mstdn.id/@yhy" target="_blank" rel="me">@yhy@mstdn.id</a>.
+
 <!--
 **yahyaanwar/yahyaanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
