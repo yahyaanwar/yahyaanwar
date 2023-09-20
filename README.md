@@ -2,6 +2,8 @@
 
 Follow me on Mastodon <a href="https://mstdn.social/@yhy" target="_blank" rel="me">@yhy@mstdn.social</a>.
 
+Checkout my [Odoo Modules](https://github.com/stars/yahyaanwar/lists/odoo-modules).
+
 <!--
 **yahyaanwar/yahyaanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
